@@ -1,5 +1,5 @@
 
-The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+#The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
@@ -11,7 +11,7 @@ The features selected for this database come from the accelerometer and gyroscop
 
 activities <- activity_labels.txt : 6 rows, 2 columns
 
-List of activities performed when the corresponding measurements were taken and its codes (labels)
+#List of activities performed when the corresponding measurements were taken and its codes (labels)
 
 subject_test <- test/subject_test.txt : 2947 rows, 1 column
 
